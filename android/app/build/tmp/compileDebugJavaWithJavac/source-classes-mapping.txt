@@ -1,0 +1,14 @@
+com/togglebutton/ReactNativeFlipper.java
+ com.togglebutton.ReactNativeFlipper
+ com.togglebutton.ReactNativeFlipper$1
+ com.togglebutton.ReactNativeFlipper$2
+ com.togglebutton.ReactNativeFlipper$2$1
+com/togglebutton/BuildConfig.java
+ com.togglebutton.BuildConfig
+com/togglebutton/MainApplication.java
+ com.togglebutton.MainApplication
+ com.togglebutton.MainApplication$1
+com/togglebutton/MainActivity.java
+ com.togglebutton.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
